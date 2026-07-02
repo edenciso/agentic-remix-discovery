@@ -1,4 +1,4 @@
-# Remix Discovery Studio
+# Agentic Remix Discovery PM Studio
 
 A six-agent orchestration that ingests a coded customer-interview corpus — pain observations, behaviors, desired outcomes, workarounds, quotes — and produces a discovery synthesis brief for a product trio: user pain clusters with cross-segment evidence, said-vs-did contradictions that PMs care most about, recommendations sorted into Build / Research / Deprioritize, and the open questions for the next research round.
 
@@ -170,4 +170,4 @@ Expected on Opus 4.7. Switch `MODEL` to `claude-sonnet-4-6` for ~3x speedup if y
 
 ## License
 
-MIT.
+Apache 2.0
